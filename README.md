@@ -1,5 +1,3 @@
-# Webpack5
+[![Build status](https://ci.appveyor.com/api/projects/status/aw8ymtuy9yt2ck61?svg=true)](https://ci.appveyor.com/project/AlexWEBArt/ahj-working-environment-yarn)
 
-[Информация о релизе Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)
-
-[Migration Guide](https://webpack.js.org/migrate/5/)
+https://alexwebart.github.io/AHJ-Working_environment/
